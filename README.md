@@ -18,11 +18,10 @@ My analysis consisted of a two phased approach to understanding the outcomes of 
 
 In order to provide the analysis of outcomes based on date, I used the “Years ()” function to generate a column in the dataset that provided the year each event took place. 
 
+ <img width="128" alt="image" src="https://user-images.githubusercontent.com/107585908/175168872-e2d4ac71-b5e9-428e-a4d6-9f9a9d445f31.png">
  
 
 Once complete, a pivot table was developed that divided the data into several categories (successful, failed, and cancelled) which could be filtered by type of event and year. 
-
- 
 
 Once the pivot table was created, I was able to use new dataset to create a line graph (please see submitted images).
 
@@ -30,7 +29,7 @@ Once the pivot table was created, I was able to use new dataset to create a line
 
 To begin the analysis based on goals, I started by using a “COUNTIFS ()” function in order to partition the outcomes data into categories based on various ranges of goal amounts. This data was also filtered specifically for plays. An example of the method is illustrated as follows:
 
- 
+ <img width="713" alt="image" src="https://user-images.githubusercontent.com/107585908/175168605-e227ff5e-e617-474b-a57c-483b227be99a.png">
 
 As you can also see above, the percentage of each outcome was calculated by dividing the value of each outcome by the total number of each outcome. This information was then used to generate another line graph (please see uploaded image).
  
